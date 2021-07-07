@@ -1,0 +1,2 @@
+# ridiarbi
+rigidez armarduras bidireccionales
